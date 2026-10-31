@@ -1,0 +1,4 @@
+engine/
+__pycache__/
+*-puzzles.csv
+*-puzzles.pgn
